@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**il-mattacchione/il-mattacchione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# il-mattacchione, also known as koru.
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6CBED8&center=true&vCenter=true&width=435&lines=Community+Translator+🇳🇿🇮🇹;Software+Enthusiast;Videogame+Addict+and+Wannabe+Dev" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Native English • Fluent Italian • Software and Translations Enthusiast**
+
+![Profile Views](https://komarev.com/ghpvc/?username=il-mattacchione&color=6CBED8)
+
+</div>
+
+## What I Do
+Community-driven freelancer specializing in **Italian and English localizations** for games and open-source projects, and **software development** for games and tools. Passionate about videogame development—Working to create a portfolio, contribute to repositories, and learn along the way.
+
+## Feel free to contact me for collaborations or enquiries:
+- Send me an email at blooming.bulbasaur@gmail.com
+- Or DM on Discord @ princekoru
